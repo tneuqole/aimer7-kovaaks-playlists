@@ -1,0 +1,44 @@
+{
+	"playlistName": "AIMER7 Advanced Beginner Complete",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "RexStrafesCata",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall6targets TE",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "LG Pin Practice 360",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy 180 Strafing",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Close Long Strafes Invincible",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall 6targets small",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall5targets_pasu",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Ground Plaza Easy",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

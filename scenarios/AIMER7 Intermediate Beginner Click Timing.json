@@ -1,0 +1,36 @@
+{
+	"playlistName": "AIMER7 Intermediate Beginner Click Timing",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "1wall 6targets small",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Tile Frenzy - Strafing - 02",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy 180",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Thin Aiming Long Invincible",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Vertical Long Strafes",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy - Strafing - 03",
+			"play_Count": 10
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

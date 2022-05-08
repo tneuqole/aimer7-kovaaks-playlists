@@ -1,0 +1,40 @@
+{
+	"playlistName": "AIMER7 Intermediate Tracking",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "Close Fast Strafes Invincible",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Vertical Fast Strafes",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Tile Frenzy 180 Strafing 200 Percent Tracking",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall5targets_pasu",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Ground Plaza Easy",
+			"play_Count": 2
+		},
+		{
+			"scenario_Name": "Air",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Ground Plaza",
+			"play_Count": 2
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

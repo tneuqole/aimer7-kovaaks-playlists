@@ -1,0 +1,40 @@
+{
+	"playlistName": "AIMER7 Sub-Intermediate Click Timing",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "Bounce 180",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "1wall 6targets small",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall5targets_pasu",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "RexStrafesCata",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy 180 Strafing 200 Percent",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Ground Plaza Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Close Fast Strafes Easy",
+			"play_Count": 10
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

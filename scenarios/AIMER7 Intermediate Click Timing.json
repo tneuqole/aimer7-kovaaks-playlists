@@ -1,0 +1,44 @@
+{
+	"playlistName": "AIMER7 Intermediate Click Timing",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "1wall5targets_pasu",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Pressure Aiming - 7 Targets",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Target Acquisition Flick Easy",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Close Fast Strafes Invincible",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy 180 Strafing 200 Percent",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Vertical Hand Warmup",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Ground Plaza Easy",
+			"play_Count": 2
+		},
+		{
+			"scenario_Name": "Target Acquisition Flick",
+			"play_Count": 10
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

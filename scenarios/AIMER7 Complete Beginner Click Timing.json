@@ -1,0 +1,36 @@
+{
+	"playlistName": "AIMER7 Complete Beginner Click Timing",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "1wall6targets TE",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Tile Frenzy - Strafing - 01",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "1wall 1target",
+			"play_Count": 15
+		},
+		{
+			"scenario_Name": "Close Long Strafes",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Vertical Long Strafes",
+			"play_Count": 10
+		},
+		{
+			"scenario_Name": "Tile Frenzy - Strafing - 02",
+			"play_Count": 10
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}

@@ -1,0 +1,72 @@
+{
+	"playlistName": "AIMER7 Advanced Complete",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenario_Name": "Close Fast Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Vertical Fast Strafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Air",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "POPCORN",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "McCoy 1v1",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "1wall5targets_pasu",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Vertical Hand Warmup",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Bounce 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "patTargetSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Bounce 180 Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "Target Switching 360",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "LG Pin Practice 360",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "1wall9000targets",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "1wall6targets TE",
+			"play_Count": 1
+		},
+		{
+			"scenario_Name": "1wall 6targets small",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": ""
+}
